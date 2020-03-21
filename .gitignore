@@ -1,3 +1,4 @@
+# Auto generated .gitignore from github while initial project creation.
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -9,3 +10,10 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ stuff
+.idea
+*.iml
+
+# Builded artifacts
+out

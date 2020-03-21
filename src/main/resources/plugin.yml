@@ -1,0 +1,9 @@
+name: AzoFarmWorld
+author: Azorimor
+version: 1.0.0
+main: io.github.azorgame.azofarmworld.AzoFarmWorld
+website: https://github.com/AzorGame/mc-azofarmworld
+commands:
+  farmworld:
+    usage: farmworld
+    description: Teleport the player to the normal farmworld.
